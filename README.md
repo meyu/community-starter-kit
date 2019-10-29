@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Activity: Editing the README.md
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Activity: Editing the README.md
 
 ## Getting started
 
